@@ -11,13 +11,13 @@
 
 ## Screenshots
 
-### Upload Cat Images
-
-![Upload Cat Images](assets/screenshots/upload-cat-images.png)
-
 ### View Uploaded Cats
 
 ![View Uploaded Cats](assets/screenshots/view-uploaded-cats.png)
+
+### Upload Cat Images
+
+![Upload Cat Images](assets/screenshots/upload-cat-images.png)
 
 ## Installation
 
@@ -30,10 +30,11 @@ To get started with Cat Lovers Hub, follow these steps:
    ```
 
 2. **Navigate into the project directory:**
-   
+
    ```bash
    cd catify
    ```
+
 3. **Install the necessary dependencies:**
 
    ```bash
@@ -45,9 +46,9 @@ To get started with Cat Lovers Hub, follow these steps:
    ```bash
    yarn start
    ```
-   
+
 5. **To run tests:**
 
    ```bash
    yarn test
-   ```   
+   ```
