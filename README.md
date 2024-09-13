@@ -11,13 +11,19 @@
 
 ## Screenshots
 
-### View Uploaded Cats
+<table>
+  <tr>
+    <td align="center">
+      <strong>View Uploaded Cats</strong><br>
+      <img src="assets/screenshots/view-uploaded-cats.png" alt="View Uploaded Cats" width="300" />
+    </td>
+    <td align="center">
+      <strong>Upload Cat Images</strong><br>
+      <img src="assets/screenshots/upload-cat-images.png" alt="Upload Cat Images" width="300" />
+    </td>
+  </tr>
+</table>
 
-![View Uploaded Cats](assets/screenshots/view-uploaded-cats.png)
-
-### Upload Cat Images
-
-![Upload Cat Images](assets/screenshots/upload-cat-images.png)
 
 ## Installation
 
