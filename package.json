@@ -8,7 +8,8 @@
     "ios": "expo start --ios",
     "web": "expo start --web",
     "test": "jest --watch",
-    "generateApi": "npx @openapitools/openapi-generator-cli generate -i ./api/openapi.json -g typescript-axios --additional-properties=withSeparateModelsAndApi=true,modelPackage=models,apiPackage=api -o ./api/generated"
+    "generateApi": "npx @openapitools/openapi-generator-cli generate -i ./api/openapi.json -g typescript-axios --additional-properties=withSeparateModelsAndApi=true,modelPackage=models,apiPackage=api -o ./api/generated",
+    "setup": "yarn install && yarn generateApi"
   },
   "jest": {
     "preset": "jest-expo",
